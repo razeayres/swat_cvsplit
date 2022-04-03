@@ -1,4 +1,4 @@
-# swat_cvsplit - precipitation tester for SWAT models
+# swat_cvsplit - program for spliting observed dataset for validation
 ###### *Rodrigo de Queiroga Miranda*
 
 ###### Contact: rodrigo.qmiranda@gmail.com
